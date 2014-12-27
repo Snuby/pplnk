@@ -1,0 +1,20 @@
+{
+    "name": "pplnk",
+    "description": "person 2 person link",
+    "version": "0.0.1",
+    "author": {
+        "name": "Jamie Su",
+        "email": "swj222225@126.com",
+        "url": "http://pplnk.com"
+    },
+    "dependencies": {
+        "express":"4.10.6",
+        "morgan":"1.5.0"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
